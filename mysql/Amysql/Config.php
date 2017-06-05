@@ -16,7 +16,7 @@ $Config['UrlActionName'] = 'a';				// 自定义方法名称 例如: index.php?c=
 // 默认使用数据库配置 *****************************************
 
 $Config['ConnectTag'] = 'default';				// Mysql连接标识 可同时进行多连接
-$Config['Host'] = 'localhost';					// Mysql主机地址
-$Config['User'] = 'root';						// Mysql用户
-$Config['Password'] = 'root';						// Mysql密码
-$Config['DBname'] = 'wordpress';							// 数据库名称
+$Config['Host'] = 'mysql.blog2017.svc';					// Mysql主机地址
+$Config['User'] = 'wordpress';						// Mysql用户
+$Config['Password'] = 'jason2016';						// Mysql密码
+$Config['DBname'] = 'wordpressdb';							// 数据库名称
